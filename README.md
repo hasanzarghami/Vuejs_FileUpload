@@ -22,11 +22,10 @@ Without dependency
             );
  ```
  
- 
- 
- # props
+ ### Props Tables
+                    
  Props  | Default  | Type | Example | Description
-------------- | -------------
+------------- | ------------- | ------------- | -------------| -------------
 uploadUrl  | null |  String | uploadUrl"/api/upload" | 
 uploadKey  | uploadfile | String | uploadKey="fileUpload" | 
   params  | null | Object | :params="{ id:1 }" | 
